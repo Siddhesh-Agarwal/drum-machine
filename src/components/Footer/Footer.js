@@ -8,7 +8,7 @@ class Footer extends React.Component {
       <footer>
         <span>
           <a
-            href="htts://www.github.com/Siddhesh-Agarwal"
+            href="https://www.github.com/Siddhesh-Agarwal"
             rel="noreferrer noopener"
             target="_blank"
           >
